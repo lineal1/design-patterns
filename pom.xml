@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>design-patterns-01-00</module>
+        <module>design-patterns-02-00</module>
+        <module>design-patterns-03</module>
     </modules>
 
     <properties>
